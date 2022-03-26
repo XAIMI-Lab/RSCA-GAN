@@ -10,7 +10,19 @@ Test the model
 ```bash
 python train_RSCA.py --gpu=' ' --imageDir=' ' --labelDir=' ' --maskDir=' ' --sample='result/knee_mask_8x/' --load='train_log/knee_mask_8x/max-validation_PSNR_boost_A.data-00000-of-00001'
 ```
-Paper: 
 
-A Modified Generative Adversarial Network Using Spatial and Channel-Wise Attention for CS-MRI Reconstruction https://ieeexplore.ieee.org/abstract/document/9447721
+## Citation
+If you find this code is useful in your research, please consider to cite:
+
+```
+@article{li2021modified,
+  title={A modified generative adversarial network using spatial and channel-wise attention for CS-MRI reconstruction},
+  author={Li, Guangyuan and Lv, Jun and Wang, Chengyan},
+  journal={IEEE Access},
+  volume={9},
+  pages={83185--83198},
+  year={2021},
+  publisher={IEEE}
+}
+```
 
