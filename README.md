@@ -1,4 +1,7 @@
 # RSCA-GAN
+This is a **Tensorflow** implementation of our paper:
+
+<a href="https://ieeexplore.ieee.org/abstract/document/9447721">Guangyuan Li; Jun Lv*; Chengyan Wang. "A Modified Generative Adversarial Network Using Spatial and Channel-Wise Attention for CS-MRI Reconstruction." IEEE Access, 2021.</a>
 
 Environment setting: cuda 8.0 + cudnn 6.0 + tensorflow 1.4 + tensorpack 0.8
 
